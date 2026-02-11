@@ -1,6 +1,7 @@
 ## Hi there 👋
 - I'm Shashikumar N T graduated from UBDTCE in CSE in 2025.
-- I've knowledge on Django Framework.
+#- I've knowledge on Django Framework.
+- I'm currently leaning Spring boot framework.
 <!--
 **shashikumar2025/shashikumar2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
